@@ -38,7 +38,7 @@ Highlights & Key Learning Outcomes
 
 Connect with Me
 Feel free to connect with me to discuss cloud technology, potential roles, or collaborations.
-- LinkedIn: [Your LinkedIn Profile Link]
-- Email: [Your Professional Email Address]
+- LinkedIn: linkedin.com/in/mokgadi-selepe-265875b7
+- Email: mokgadi9939@gmail.com
 - AWS Certification: [Link to your official AWS Certified Cloud Practitioner badge]
 
